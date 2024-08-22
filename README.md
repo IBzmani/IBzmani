@@ -7,7 +7,9 @@ I'm Ibrahim, a full-stack developer specializing in mobile and web applications.
   A full-stack Uber clone with real-time ride tracking, payments, and authentication.
 
 ## 🛠 Tech Stack
+
 ### Frontend:
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
 ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=flat)
@@ -23,8 +25,8 @@ I'm Ibrahim, a full-stack developer specializing in mobile and web applications.
 ![Clerk](https://img.shields.io/badge/-Clerk-3A9BFC?logo=clerk&logoColor=white&style=flat)
 ![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?logo=google-maps&logoColor=white&style=flat)
 ![OAuth](https://img.shields.io/badge/-OAuth-3A9BDC?logo=oauth&logoColor=white&style=flat)
+
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=IBzmani&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBzmani&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
