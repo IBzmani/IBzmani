@@ -30,8 +30,7 @@ I'm Ibrahim, a full-stack developer specializing in mobile and web applications.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBzmani&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-y-71699311a)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-y-71699311a/)
 
 ## 👨‍💻 Fun Fact
 Did you know? I can rap! (a bit 😅)
