@@ -13,6 +13,7 @@ I'm Ibrahim, a full-stack developer specializing in mobile and web applications.
 ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=flat)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
 ![NativeWind](https://img.shields.io/badge/-NativeWind-0EA5E9?logo=tailwind-css&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
 
 ### Backend:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
