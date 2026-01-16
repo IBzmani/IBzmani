@@ -1,52 +1,53 @@
-## Hi there 👋
+<p align="center">
+<img src="banner_image.png" alt="Ibrahim Yakubu Banner" width="100%">
+</p>
 
-I'm Ibrahim, a full-stack developer specializing in mobile and web applications. I love working with technologies like Next, React Native, TypeScript, PostgreSQL, and more. 🚀
+# Senior Full Stack Engineer 👋
 
-## 🚀 Featured Projects
-- [Uber Clone](https://github.com/IBzmani/uber-clone)  
-  A full-stack Uber clone with real-time ride tracking, payments, and authentication.
+I am a **Senior Software Engineer** with over 5 years of experience specializing in high-performance web and mobile applications. My expertise lies in the **React / TypeScript ecosystem**, with a proven track record of architecting scalable systems at Luday and for various international clients.
 
-## 🛠 Tech Stack
+---
 
-### Frontend:
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat)
-![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=flat)
-![NativeWind](https://img.shields.io/badge/-NativeWind-0EA5E9?logo=tailwind-css&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
+### 💼 Professional Focus
 
-### Backend:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+* **Web Development:** Expert in Next.js, React, and performance optimization.
+* **Mobile Development:** Specialist in React Native and Expo for cross-platform excellence.
+* **Backend Architecture:** Proficient in Python, NestJS, and secure API design with PostgreSQL.
+* **Quality & Security:** Committed to RBAC, automated testing (Jest / Robot Framework), and system reliability.
 
-### Authentication & APIs:
-![Clerk](https://img.shields.io/badge/-Clerk-3A9BFC?logo=clerk&logoColor=white&style=flat)
-![Google Maps API](https://img.shields.io/badge/-Google%20Maps%20API-4285F4?logo=google-maps&logoColor=white&style=flat)
-![OAuth](https://img.shields.io/badge/-OAuth-3A9BDC?logo=oauth&logoColor=white&style=flat)
+---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IBzmani&layout=compact&theme=radical)
+### 🚀 Technical Expertise
 
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-y-71699311a/)
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend & UI** | React, Next.js, TypeScript, Tailwind CSS, Redux |
+| **Backend & Infra** | Python, NestJS, Node.js, PostgreSQL, Docker, AWS |
+| **Testing & Security** | Jest, Robot Framework, RBAC, OAuth2 |
 
-## 👨‍💻 Fun Fact
-Did you know? I can rap! (a bit 😅)
+---
 
+### 📊 Note on Contributions
 
-<!--
-**IBzmani/IBzmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Most of my professional contributions over the last few years are hosted on private **Bitbucket** and **GitLab** instances for enterprise-level projects (Luday). This public heatmap only reflects personal research, open-source interests, and architectural experiments.
 
-Here are some ideas to get you started:
+#### Recent Highlights:
+* **Agile Suite (Professional):** Engineered a complex project management tool with drag-and-drop and RBAC.
+* **eCommerce Engine (Professional):** Optimized Next.js server-side rendering, improving performance by **40%**.
+* **Mobile Innovation:** Built cross-platform apps using React Native/Expo for high-engagement platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Certifications
+
+* **Meta:** Advanced React & Version Control
+* **UC Davis:** Search Engine Optimization (SEO)
+
+---
+
+### 🌐 Connect with Me
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ibrahim-y-71699311a/) 
+[<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white" />](https://ibrahim-yakubu.webflow.io/)
+
+> **Fun Fact:** When I'm not debugging, I’m probably deep into writing and exploring new ideas! ✍️
